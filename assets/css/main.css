@@ -2276,7 +2276,7 @@
 			.icon.major:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: devicon;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -2791,7 +2791,7 @@
 			}
 
 			.main.style2 .icon.major {
-				color: #ffffff;
+
 			}
 
 /* Header */
