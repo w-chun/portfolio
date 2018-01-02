@@ -2242,7 +2242,7 @@
 		}
 
 		.icon.style1:before {
-			color: #c3e895;
+			color: #fff;
 		}
 
 		.icon.style2:before {
@@ -2372,6 +2372,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
+			text-align: center;
 		}
 
 			ul.icons li {
@@ -2712,6 +2713,7 @@
 			background-attachment: fixed,							fixed;
 			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
 			background-size: auto,							cover;
+			text-align: center;
 		}
 
 			.main.style2 a {
